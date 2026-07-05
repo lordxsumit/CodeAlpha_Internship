@@ -1,3 +1,3 @@
 # Task 1 -> Completed
 
-# Task 2 -> File structure setup stage
+# Task 2 -> Almost completed with the task
